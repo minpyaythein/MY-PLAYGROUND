@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <button class="btn btn-outline-secondary">hello</button>
 </template>
 
 <script setup></script>
