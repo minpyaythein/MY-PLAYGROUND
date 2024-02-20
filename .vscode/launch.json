@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-MyplaygroundApplication<myplayground>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "backend.myplayground.MyplaygroundApplication",
+			"projectName": "myplayground",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
