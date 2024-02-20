@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class GetController {
 
     @Autowired
-    GetService readService;
+    GetService getService;
 
 }
