@@ -1,5 +1,7 @@
 import { service } from './service.js'
 
-export const getMembers = () => {
-  return service.get('/getMembers')
+export default {
+  getMembers() {
+    return service.get('/getMembers')
+  }
 }
