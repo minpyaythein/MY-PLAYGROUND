@@ -8,7 +8,7 @@ import getService from '../service/getService.js'
 const getMembers = async () => {
   console.log('hello')
   const response = await getService.getMembers()
-  console.log(response)
+  console.log(response.data)
 }
 </script>
 
